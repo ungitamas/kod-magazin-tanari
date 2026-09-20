@@ -1,0 +1,35 @@
+📘 Kód Magazin
+
+A web alapnyelve: HTML
+
+Közzétette: Laura Jones, 2027. június 21., hétfő
+
+Minden modern weboldal és webalkalmazás három alapvető technológiára épül: HTML-re, CSS-re és JavaScriptre. Ezek a web alapvető nyelvei és technológiái.
+
+Ebben a bejegyzésben a HTML-re összpontosítunk. Megtanuljuk, mi is a HTML, és azt is, hogy miért érdemes neked is megtanulnod.
+
+Mi az a HTML?
+
+A HTML a HyperText Markup Language rövidítése. Ez egy jelölőnyelv, amelyet a webfejlesztők a weboldalak tartalmának strukturálására és leírására használnak (nem programozási nyelv).
+
+A HTML különböző típusú tartalmakat leíró elemekből áll: bekezdésekből, hivatkozásokból, címsorokból, képekből, videókból stb. A webböngészők értelmezik a HTML-t, és a HTML-kódot weboldalként jelenítik meg.
+
+A HTML-ben egy elem általában három részből áll:
+
+Nyitó tag
+Záró tag
+Az elem tartalma
+
+További információkat az MDN Web Docs oldalán találsz.
+
+Miért érdemes HTML-t tanulni?
+
+Számtalan oka van annak, hogy megtanuljuk a web egyik alapvető nyelvét. Íme öt közülük:
+
+Hogy használni tudd a webfejlesztés egyik alapvető nyelvét
+Hogy saját kezűleg készíthess szép weboldalakat olyan eszközök helyett, mint a WordPress vagy a Wix
+Hogy webalkalmazásokat készíthess
+Hogy lenyűgözd a barátaidat
+Hogy jól érezd magad közben 😃
+
+Remélhetőleg tanultál valami újat. Találkozunk legközelebb!
